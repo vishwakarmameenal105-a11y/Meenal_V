@@ -7,3 +7,4 @@ What I love working on -
 - Linux security monitoring
 - Threat hunting automation
 - Threat intel
+- Building custom security tools
