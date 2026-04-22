@@ -8,3 +8,4 @@ What I love working on -
 - Threat hunting automation
 - Threat intel
 - Building custom security tools
+- Security Assessment 
